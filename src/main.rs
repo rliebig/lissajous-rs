@@ -11,3 +11,4 @@ use std::fs::File;
 fn main() {
     grid();
 }
+natural_keys
